@@ -3,11 +3,9 @@
 ***
 
 ### Group members
-| Student name | Student ID |
-| --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Daniel Wendt Schelske | 151798 |
+| Nathanael Balbuena | 152951 |
+| Nicolaj Sjeltoft | 152331 |
 
 ***
 
